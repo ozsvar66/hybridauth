@@ -20,7 +20,7 @@ class Yahoo extends OAuth2
     /**
     * {@inheritdoc}
     */
-    protected $scope = 'sdpp-w';
+    protected $scope = 'profile';
 
     /**
     * {@inheritdoc}
